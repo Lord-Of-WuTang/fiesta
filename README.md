@@ -4,7 +4,7 @@ A simple, elegant flyer for the Tech Fest 2025 event featuring workshops, talks,
 
 ## Overview
 
-This is a static HTML flyer designed to promote and provide information about Tech Fest 2025. The site showcases the event's key offerings including workshops with industry leaders, live technology demonstrations, and prize giveaways.
+This is a static HTML flyer designed to promote and provide information about Tech Fest 2025. The site showcases the event's key offerings, including workshops with industry leaders, live technology demonstrations, and prize giveaways.
 
 ## Features
 
@@ -91,4 +91,4 @@ For questions about Tech Fest 2025 or this website, please contact the event org
 
 ---
 
-*Built with ❤️ for the tech community*
+*Built with ❤️ by MOKA!for the tech community*
